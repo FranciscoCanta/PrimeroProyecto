@@ -3,7 +3,7 @@ package parcial2;
 public class Bota extends Zapato {
 
     private double talla;
-
+    //3er commit de prueba primer proyecto
     //Constructor 
     public Bota(String nombre, double precio, int stock, double talla) {
         super(nombre, precio, stock);
