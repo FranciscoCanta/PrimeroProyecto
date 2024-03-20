@@ -14,6 +14,7 @@ public class Bota extends Zapato {
     public void mostarInformacion() {
         super.mostarInformacion();
         System.out.println(" Talla: " + talla);
+        System.out.println("una cosa que agregué");
     }
 
 }
