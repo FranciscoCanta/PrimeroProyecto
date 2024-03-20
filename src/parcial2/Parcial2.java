@@ -44,7 +44,7 @@ public class Parcial2 {
         //Zapato zapato3 = new Zapatilla("Adidas", 10, 100, "Truk");
         Zapateria zapateria = new Zapateria();
         
-        System.out.println("Esto agregué en el proyecto para hacer un segundo commit");
+        
 
         try {
 
